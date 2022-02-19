@@ -1,9 +1,2 @@
-# Honeypot-Cloud 
-Honeypot for cloud native that provides collect, analyze, and alert on cloud attack. 
-
-# Architecture
-
----
-Licensed under of either of
-
-* MIT license ([LICENSE-MIT](LICENSE) or http://opensource.org/licenses/MIT)
+# K8S Develop Examples 
+Examples of secondary development of **K8S** include Operator, Webhook etc.
